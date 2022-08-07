@@ -3,33 +3,19 @@
 ## سوالات متداول پرسیده شده در حوزه سی شارپ
 
 
-### یک سوال
+<h3>یک سوال</h3>
 
 <blockquote>
   <p>جواب سوال</p>
 </blockquote>
 
-### یک سوال
+<h3>یک سوال</h3>
 
 <blockquote>
   <p>جواب سوال</p>
 </blockquote>
 
-### یک سوال
-
-<blockquote>
-  <p>جواب سوال</p>
-</blockquote>
-
-
-### یک سوال
-
-<blockquote>
-  <p>جواب سوال</p>
-</blockquote>
-
-
-### یک سوال
+<h3>یک سوال</h3>
 
 <blockquote>
   <p>جواب سوال</p>
