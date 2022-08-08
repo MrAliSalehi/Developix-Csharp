@@ -1,11 +1,13 @@
-
 <div dir="rtl" lang="fa">
         
         <h1>منابع یادگیری سی شارپ</h1>
         
-        <h2>کتاب ها</h2>
+        <h2 id="Books"><a href="#Books">کتاب ها</a></h2>
         
-        
+        <p>سعی شده تمامی کتب ذکر شده بر اساس اخرین نسخه های سی شارپ و دات نت تعریف شده باشند.</p>
+
+        <p>به دلیل رعایت حقوق کپی رایت و نویسنده گان نسخه پی دی اف کتب قرار نمیگیرد.</p>
+
         <img src="images/1.jpg" width="170">
         <h3>The C# Player's Guide</h3>
         <p>RB Whitaker-</p>
@@ -36,16 +38,14 @@
         <p>Vaskaran Sarcar-</p>
 
 
-        
-        <h3>ویدیو ها</h3>
+
+        <h2 id="Videos"><a href="#Videos">ویدیو ها</a></h2>
 
 
 
-        <h3>سایت ها</h3>
+        <h2 id="Sites"><a href="#Sites">سایت ها</a></h2>
         
 
         <a href="./">بازگشت</a>
         
-    
-</div>
-    
+    </div>
