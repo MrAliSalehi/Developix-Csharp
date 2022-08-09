@@ -61,3 +61,9 @@
 * ### [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
 
 **`> توضیحات : بنچمارک گرفتن از کدها در سی شارپ`**
+
+
+* ### [Sharprompt](https://github.com/shibayan/Sharprompt)
+
+
+**`> توضیحات : فریمورکی برای توسعه اپلیکیشن های مبتنی بر CLI`**
