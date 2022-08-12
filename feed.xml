@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Developix-Csharp</title>
+    <link href="https://mralisalehi.github.io/Developix-Csharp/feed.xml" rel="self" />
+    <link href="https://mralisalehi.github.io/Developix-Csharp" />
+    <updated>2022-08-12T23:01:38+04:30</updated>
+    <author>
+        <name>QWxp</name>
+    </author>
+    <id>https://mralisalehi.github.io/Developix-Csharp</id>
+
+    <entry>
+        <title>سوالات متداول در حوزه سی شارپ</title>
+        <author>
+            <name>QWxp</name>
+        </author>
+        <link href="https://mralisalehi.github.io/Developix-Csharp/swlt-mtdwl-dr-hwzh-sy-shrp/"/>
+        <id>https://mralisalehi.github.io/Developix-Csharp/swlt-mtdwl-dr-hwzh-sy-shrp/</id>
+            <category term="Csharp"/>
+
+        <updated>2022-08-12T23:01:38+04:30</updated>
+            <summary>
+                <![CDATA[
+                    در این بخش به برخی از سوالات پرتکرار کاربران دولوپیکس پاسخ داده شده است همیشه بهترین گذینه نیست، ولی ناچارید اون رو بلد باشید. OOP درنظر داشته باشید
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 class="align-center">در این بخش به برخی از سوالات پرتکرار کاربران دولوپیکس پاسخ داده شده است</h3>
+<p> </p>
+<p> </p>
+<h3 class="msg msg--info align-center"> کاربرد سی شارپ</h3>
+<blockquote>
+<h6 class="msg msg--success align-right">سی شارپ زبانی متن باز توسعه داده شده توسط ماکروسافت، زبانی با کاربری عمومی است. به وسیله سی شارپ توسعه اپلیکیشن های مبتنی بر وب ،ویندوز، لینوکس و مک امکان پذیر هست همچنین امکان ساخت و توسعه اپلیکیشن های اندروید،IOS و UWP وجود دارد. از سی شارپ برای بازی سازی و سیستم های IOT نیز استفاده میشود</h6>
+</blockquote>
+<p> </p>
+<h3 class="msg msg--info align-center">شروع سی شارپ</h3>
+<p> </p>
+<blockquote>
+<h6 class="msg msg--success align-right">شروع سی شارپ با سایر زبان ها تفاوت چندانی ندارد. یاد گیری متغیر ها و ساختار های داده میتواند از اولین قدم های یادگیری باشد. بهتره مباحث پایه رو در بستر کنسول و بدون محیط گرافیکی یاد بگیرید و در ادامه شروع به یاد گیری فریمورک های مختلف بکنید.</h6>
+<ul style="list-style-type: square;">
+<li>Syntax &amp; Statement.</li>
+<li>Gain Experience In Pure C-Sharp (Console Applications..etc).</li>
+<li>Understand The Concept Of Classes And Objects.</li>
+<li>Interfaces And Starting With OOP Paradigm.</li>
+</ul>
+<p class="align-right"><span style="text-decoration: underline;">همیشه بهترین گذینه نیست، ولی ناچارید اون رو بلد باشید.</span><span style="text-decoration: underline;"> OOP درنظر داشته باشید</span></p>
+<ul style="list-style-type: square;">
+<li>Continue To Lean More About Paradigms, Design Patterns And Architectures.   </li>
+</ul>
+</blockquote>
+<h5 class="msg msg--warning align-right">یادگیری با دوره های برنامه نویسی اشکالی نداره، ولی هواستون باشه مدرستون رو با دقت انتخاب کنید، ممکنه حتی مدرسانی که مدرک ماکروسافت هم دارند،مناسب نباشند</h5>
+<h5 class="msg msg--warning align-right">لطفا در یادگیری انگلیسی تنبلی نکنید، لازم هم نیست درجات بالایی ازش کسب کنید،ولی به واسطه عقب بودن کشورمون در این حوزه، همیشه جدید ترین اخبار و علوم کامپیوتر رو مجبورید به این زبان دنبال کنید .از طرفی دیگه محتاج افراد دیگر هم نیستید که منابع اصلیه علوم مختلف رو براتون ترجمه کنند و شما دوره هاشون رو بخرید</h5>
+<p class="align-right"> </p>
+<h3>References :<a href="https://en.wikipedia.org/wiki/Console_application" target="_blank" rel="noopener noreferrer"></a></h3>
+<ol style="list-style-type: upper-roman;">
+<li><a href="https://en.wikipedia.org/wiki/Syntax" target="_blank" rel="noopener noreferrer">Syntax</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Statement_(computer_science)">Statement</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Object-oriented_programming">OOP</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Class_(computer_programming)">Class</a></li>
+<li><a href="https://stackoverflow.com/a/2867064/15204250" target="_blank" rel="noopener noreferrer">Interface</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Software_design_pattern" target="_blank" rel="noopener noreferrer">Design Patterns</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Software_architecture">Architecture </a></li>
+</ol>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
