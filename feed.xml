@@ -3,12 +3,62 @@
     <title>Developix-Csharp</title>
     <link href="https://mralisalehi.github.io/Developix-Csharp/feed.xml" rel="self" />
     <link href="https://mralisalehi.github.io/Developix-Csharp" />
-    <updated>2022-08-13T01:18:52+04:30</updated>
+    <updated>2022-08-13T01:43:12+04:30</updated>
     <author>
         <name>QWxp</name>
     </author>
     <id>https://mralisalehi.github.io/Developix-Csharp</id>
 
+    <entry>
+        <title>منابع یادگیری سی شارپ و دات نت</title>
+        <author>
+            <name>QWxp</name>
+        </author>
+        <link href="https://mralisalehi.github.io/Developix-Csharp/mnbaa-ydgyry-sy-shrp-w-dt-nt/"/>
+        <id>https://mralisalehi.github.io/Developix-Csharp/mnbaa-ydgyry-sy-shrp-w-dt-nt/</id>
+
+        <updated>2022-08-13T01:43:12+04:30</updated>
+            <summary>
+                <![CDATA[
+                    کتب قرار نمیگیرد PDF به دلیل رعایت حقوق کپی رایت و نویسندگان نسخه کتب قرار گرفته عموما بر اساس اخرین نسخه های سی شارپ و دات نت هستند
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p class="align-center msg msg--warning"><strong>کتب قرار نمیگیرد PDF به دلیل رعایت حقوق کپی رایت و نویسندگان نسخه</strong></p>
+<p> </p>
+<blockquote>
+<p class="align-center">کتب قرار گرفته عموما بر اساس اخرین نسخه های سی شارپ و دات نت هستند</p>
+</blockquote>
+<p> </p>
+<h3 class="align-center">کتاب ها</h3>
+<p class="align-right"> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/1.jpg" data-size="1024x1280"><img loading="lazy" src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/1-thumbnail.jpg" alt="" width="720" height="900"></a>
+<figcaption>The C# Player's Guide -RB Whitaker</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/2.jpg" data-size="777x1280"><img loading="lazy" src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/2-thumbnail.jpg" alt="" width="720" height="1186"></a>
+<figcaption>C# 10 Pocket Reference -Joseph Albahari</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/3.jpg" data-size="1200x1488"><img loading="lazy" src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/3-thumbnail.jpg" alt="" width="720" height="893"></a>
+<figcaption>C# 10 and .NET 6 -Mark J. Price</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/4.png" data-size="250x309"><img loading="lazy" src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/4-thumbnail.png" alt="" width="250" height="309"></a>
+<figcaption>C# Data Structures and Algorithms -Marcin Jamro</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/5.webp" data-size="810x1000"><img loading="lazy" src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/5-thumbnail.webp" alt="" width="720" height="889"></a>
+<figcaption>Clean Code In C# -Jason Alls</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/6.jpg" data-size="827x1181"><img loading="lazy" src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/6-thumbnail.jpg" alt="" width="720" height="1028"></a>
+<figcaption>Design Patterns In C# -Vaskaran Sarcar</figcaption>
+</figure>
+</div></div>
+<p> </p>
+<h3 class="align-center"> </h3>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>معرفی کتابخانه های کاربردی</title>
         <author>
