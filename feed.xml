@@ -3,7 +3,7 @@
     <title>Developix-Csharp</title>
     <link href="https://mralisalehi.github.io/Developix-Csharp/feed.xml" rel="self" />
     <link href="https://mralisalehi.github.io/Developix-Csharp" />
-    <updated>2022-08-13T01:43:12+04:30</updated>
+    <updated>2022-08-13T15:18:56+04:30</updated>
     <author>
         <name>QWxp</name>
     </author>
@@ -14,13 +14,13 @@
         <author>
             <name>QWxp</name>
         </author>
-        <link href="https://mralisalehi.github.io/Developix-Csharp/mnbaa-ydgyry-sy-shrp-w-dt-nt/"/>
-        <id>https://mralisalehi.github.io/Developix-Csharp/mnbaa-ydgyry-sy-shrp-w-dt-nt/</id>
+        <link href="https://mralisalehi.github.io/Developix-Csharp/learn/"/>
+        <id>https://mralisalehi.github.io/Developix-Csharp/learn/</id>
 
-        <updated>2022-08-13T01:43:12+04:30</updated>
+        <updated>2022-08-13T15:18:56+04:30</updated>
             <summary>
                 <![CDATA[
-                    کتب قرار نمیگیرد PDF به دلیل رعایت حقوق کپی رایت و نویسندگان نسخه کتب قرار گرفته عموما بر اساس اخرین نسخه های سی شارپ و دات نت هستند
+                    کتب قرار نمیگیرد PDF به دلیل رعایت حقوق کپی رایت و نویسندگان نسخه کتب قرار گرفته عموما بر اساس اخرین نسخه های سی شارپ و دات نت هستند NDCConferences dotNET TechWorldwithNana Dotnetsheff Freecodecamp AmichaiMantinband BrianLagunas MicrosoftDeveloper programmingwithmosh JoshVarty (Roslyn Team) TedsTech StudyingWithAlex IAmTimCorey Kalagar_ir (استاد&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -34,28 +34,55 @@
 <p> </p>
 <h3 class="align-center">کتاب ها</h3>
 <p class="align-right"> </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/1.jpg" data-size="1024x1280"><img loading="lazy" src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/1-thumbnail.jpg" alt="" width="720" height="900"></a>
-<figcaption>The C# Player's Guide -RB Whitaker</figcaption>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/1-2.jpg" sizes="100vw" srcset="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/1-2-xs.jpg 300w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/1-2-sm.jpg 480w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/1-2-md.jpg 768w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/1-2-lg.jpg 1024w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/1-2-xl.jpg 1360w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/1-2-2xl.jpg 1600w"  alt="" width="258" height="323"></figure>
+<figcaption ><em><strong>The C# Player's Guide : نام<br>RB Whitaker : نویسنده</strong></em></figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/2.jpg" data-size="777x1280"><img loading="lazy" src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/2-thumbnail.jpg" alt="" width="720" height="1186"></a>
-<figcaption>C# 10 Pocket Reference -Joseph Albahari</figcaption>
+<hr>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/2.jpg" sizes="100vw" srcset="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/2-xs.jpg 300w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/2-sm.jpg 480w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/2-md.jpg 768w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/2-lg.jpg 1024w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/2-xl.jpg 1360w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/2-2xl.jpg 1600w"  alt="C# 10 Pocket Reference" width="196" height="323"></figure>
+<figcaption ><em><strong>C# 10 Pocket Reference : نام<br>Joseph Albahari : نویسنده</strong></em></figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/3.jpg" data-size="1200x1488"><img loading="lazy" src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/3-thumbnail.jpg" alt="" width="720" height="893"></a>
-<figcaption>C# 10 and .NET 6 -Mark J. Price</figcaption>
+<hr>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/3.jpg" sizes="100vw" srcset="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/3-xs.jpg 300w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/3-sm.jpg 480w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/3-md.jpg 768w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/3-lg.jpg 1024w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/3-xl.jpg 1360w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/3-2xl.jpg 1600w"  alt="C# 10 and .NET 6" width="199" height="323"></figure>
+<figcaption ><em><strong>C# 10 and .NET 6 : نام<br>Mark J. Price :نویسنده<br></strong></em></figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/4.png" data-size="250x309"><img loading="lazy" src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/4-thumbnail.png" alt="" width="250" height="309"></a>
-<figcaption>C# Data Structures and Algorithms -Marcin Jamro</figcaption>
+<hr>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/4.png" sizes="100vw" srcset="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/4-xs.png 300w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/4-sm.png 480w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/4-md.png 768w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/4-lg.png 1024w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/4-xl.png 1360w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/4-2xl.png 1600w"  alt="C# Data Structures and Algorithms" width="261" height="323"></figure>
+<figcaption ><em><strong>C# Data Structures and Algorithms : نام</strong></em><br><em><strong>Marcin Jamro : نویسنده</strong></em></figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/5.webp" data-size="810x1000"><img loading="lazy" src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/5-thumbnail.webp" alt="" width="720" height="889"></a>
-<figcaption>Clean Code In C# -Jason Alls</figcaption>
+<hr>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/5.webp" sizes="100vw" srcset="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/5-xs.webp 300w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/5-sm.webp 480w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/5-md.webp 768w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/5-lg.webp 1024w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/5-xl.webp 1360w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/5-2xl.webp 1600w"  alt="Clean Code In C#" width="262" height="323"></figure>
+<figcaption ><em><strong>Clean Code In C# : نام</strong></em><br><em><strong>Jason Alls : نویسنده</strong></em></figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/6.jpg" data-size="827x1181"><img loading="lazy" src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/gallery/6-thumbnail.jpg" alt="" width="720" height="1028"></a>
-<figcaption>Design Patterns In C# -Vaskaran Sarcar</figcaption>
+<hr>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/6.jpg" sizes="100vw" srcset="https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/6-xs.jpg 300w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/6-sm.jpg 480w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/6-md.jpg 768w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/6-lg.jpg 1024w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/6-xl.jpg 1360w ,https://mralisalehi.github.io/Developix-Csharp/media/posts/5/responsive/6-2xl.jpg 1600w"  alt="Design Patterns In C#" width="226" height="323"></figure>
+<figcaption ><em><strong>Design Patterns In C# : نام</strong></em><br><em><strong>Vaskaran Sarcar : نویسنده</strong></em></figcaption>
 </figure>
-</div></div>
+<p class="align-right"> </p>
+<h3 class="align-center">یوتوب</h3>
 <p> </p>
-<h3 class="align-center"> </h3>
+<ul style="list-style-type: square;">
+<li><a href="https://www.youtube.com/c/NDCConferences" target="_blank" rel="noopener noreferrer">NDCConferences</a></li>
+<li><a href="https://www.youtube.com/c/dotNET">dotNET</a></li>
+<li><a href="https://www.youtube.com/c/TechWorldwithNana">TechWorldwithNana</a></li>
+<li><a href="https://www.youtube.com/c/dotnetsheff" target="_blank" rel="noopener noreferrer">Dotnetsheff</a></li>
+<li><a href="https://www.youtube.com/c/Freecodecamp" target="_blank" rel="noopener noreferrer">Freecodecamp</a></li>
+<li><a href="https://www.youtube.com/c/AmichaiMantinband">AmichaiMantinband</a></li>
+<li><a href="https://www.youtube.com/c/ThePrimeagen" target="_blank" rel="noopener noreferrer"></a><a href="https://www.youtube.com/c/BrianLagunas">BrianLagunas</a></li>
+<li><a href="https://www.youtube.com/c/MicrosoftDeveloper">MicrosoftDeveloper</a></li>
+<li><a href="https://www.youtube.com/c/programmingwithmosh">programmingwithmosh</a></li>
+<li><a href="https://www.youtube.com/c/JoshVarty" target="_blank" rel="noopener noreferrer">JoshVarty</a> <em>(Roslyn Team)</em></li>
+<li><a href="https://www.youtube.com/c/TedsTech">TedsTech</a></li>
+<li><a href="https://www.youtube.com/c/StudyingWithAlex">StudyingWithAlex</a></li>
+<li><a href="https://www.youtube.com/user/IAmTimCorey" target="_blank" rel="noopener noreferrer">IAmTimCorey</a></li>
+<li><a href="https://www.youtube.com/c/Kalagar_ir">Kalagar_ir</a> <em>(استاد کلاگر)</em></li>
+<li><a href="https://www.youtube.com/c/JaymeEdwardsMedia">JaymeEdwardsMedia</a></li>
+<li><a href="https://www.youtube.com/c/visualstudio">visualstudio</a></li>
+<li><a href="https://www.youtube.com/c/RawCoding" target="_blank" rel="noopener noreferrer">RawCoding</a></li>
+<li><a href="https://www.youtube.com/c/PatrickGod">PatrickGod</a></li>
+<li><a href="https://www.youtube.com/c/CodeMaze">CodeMaze</a></li>
+<li><a href="https://www.youtube.com/c/TonySpencerTube">TonySpencerTube</a></li>
+<li><a href="https://www.youtube.com/c/GeraldVersluis">GeraldVersluis</a></li>
+</ul>
             ]]>
         </content>
     </entry>
