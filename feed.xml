@@ -3,7 +3,7 @@
     <title>Developix-Csharp</title>
     <link href="https://mralisalehi.github.io/Developix-Csharp/feed.xml" rel="self" />
     <link href="https://mralisalehi.github.io/Developix-Csharp" />
-    <updated>2022-08-13T15:18:56+04:30</updated>
+    <updated>2022-08-19T02:41:23+04:30</updated>
     <author>
         <name>QWxp</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://mralisalehi.github.io/Developix-Csharp/learn/"/>
         <id>https://mralisalehi.github.io/Developix-Csharp/learn/</id>
 
-        <updated>2022-08-13T15:18:56+04:30</updated>
+        <updated>2022-08-19T02:41:23+04:30</updated>
             <summary>
                 <![CDATA[
-                    کتب قرار نمیگیرد PDF به دلیل رعایت حقوق کپی رایت و نویسندگان نسخه کتب قرار گرفته عموما بر اساس اخرین&hellip;
+                    به دلیل رعایت حقوق کپی رایت و نویسندگان نسخه پی دی اف کتب قرار نمیگیرد کتب قرار گرفته عموما بر&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p> </p>
-<p class="align-center msg msg--warning"><strong>کتب قرار نمیگیرد PDF به دلیل رعایت حقوق کپی رایت و نویسندگان نسخه</strong></p>
+<p class="align-center msg msg--warning"><strong>به دلیل رعایت حقوق کپی رایت و نویسندگان نسخه پی دی اف کتب قرار نمیگیرد</strong></p>
 <p> </p>
 <blockquote>
 <p class="align-center">کتب قرار گرفته عموما بر اساس اخرین نسخه های سی شارپ و دات نت هستند</p>
@@ -94,7 +94,7 @@
         <link href="https://mralisalehi.github.io/Developix-Csharp/maarfy-khtbkhnh-hy-khrbrdy/"/>
         <id>https://mralisalehi.github.io/Developix-Csharp/maarfy-khtbkhnh-hy-khrbrdy/</id>
 
-        <updated>2022-08-13T01:18:52+04:30</updated>
+        <updated>2022-08-19T02:40:15+04:30</updated>
             <summary>
                 <![CDATA[
                     در جدول زیر برخی از کتابخانه های کاربردی به همراه لینک گیتهاب نام برده شده اند اگه شما هم کتابخانه&hellip;
@@ -173,6 +173,14 @@
 <tr style="height: 10px;">
 <td class="align-right" style="width: 70.1729%; height: 10px;"><strong>Cli فریمورکی برای توسعه اپلیکیشن های مبتنی بر</strong></td>
 <td class="align-right" style="width: 29.8271%; height: 10px;"><a href="https://github.com/shibayan/Sharprompt" target="_blank" rel="noopener noreferrer">Sharprompt</a></td>
+</tr>
+<tr>
+<td class="align-right" style="width: 70.1729%;"><strong>کار با گرافیک و تصاویر</strong></td>
+<td class="align-right" style="width: 29.8271%;"><a href="https://github.com/dlemstra/Magick.NET" target="_blank" rel="noopener noreferrer">Magick.NET</a></td>
+</tr>
+<tr>
+<td class="align-right" style="width: 70.1729%;"><strong>کار با گرافیک و تصاویر</strong></td>
+<td class="align-right" style="width: 29.8271%;"><a href="https://github.com/SixLabors/ImageSharp" target="null">ImageSharp</a></td>
 </tr>
 </tbody>
 </table>
