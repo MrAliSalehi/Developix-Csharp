@@ -3,7 +3,7 @@
     <title>Developix-Csharp</title>
     <link href="https://mralisalehi.github.io/Developix-Csharp/feed.xml" rel="self" />
     <link href="https://mralisalehi.github.io/Developix-Csharp" />
-    <updated>2022-08-19T02:41:23+04:30</updated>
+    <updated>2022-08-26T02:30:57+04:30</updated>
     <author>
         <name>QWxp</name>
     </author>
@@ -94,7 +94,7 @@
         <link href="https://mralisalehi.github.io/Developix-Csharp/maarfy-khtbkhnh-hy-khrbrdy/"/>
         <id>https://mralisalehi.github.io/Developix-Csharp/maarfy-khtbkhnh-hy-khrbrdy/</id>
 
-        <updated>2022-08-19T02:40:15+04:30</updated>
+        <updated>2022-08-26T02:30:57+04:30</updated>
             <summary>
                 <![CDATA[
                     در جدول زیر برخی از کتابخانه های کاربردی به همراه لینک گیتهاب نام برده شده اند اگه شما هم کتابخانه&hellip;
@@ -104,7 +104,7 @@
             <![CDATA[
                 <h3 class="msg msg--info align-center">در جدول زیر برخی از کتابخانه های کاربردی به همراه لینک گیتهاب  نام برده شده اند</h3>
 <p> </p>
-<table class="table-bordered table-striped table-title" style="border-collapse: collapse; width: 99.5726%; height: 815.75px; border-style: inset;" border="1">
+<table class="table-bordered table-striped table-title" style="border-collapse: collapse; width: 99.5726%; height: 1007.19px; border-style: inset;" border="1">
 <tbody>
 <tr style="height: 50.3594px;">
 <td class="align-right" style="width: 70.1729%; height: 50.3594px;"><strong><span style="color: #ced4d9;">توضیحات</span></strong></td>
@@ -170,17 +170,25 @@
 <td class="align-right" style="width: 70.1729%; height: 50.3594px;"><strong>بنچمارک گرفتن از کدها در سی شارپ</strong></td>
 <td class="align-right" style="width: 29.8271%; height: 50.3594px;"><a href="https://github.com/dotnet/BenchmarkDotNet" target="_blank" rel="noopener noreferrer">BenchmarkDotNet</a></td>
 </tr>
-<tr style="height: 10px;">
-<td class="align-right" style="width: 70.1729%; height: 10px;"><strong>Cli فریمورکی برای توسعه اپلیکیشن های مبتنی بر</strong></td>
-<td class="align-right" style="width: 29.8271%; height: 10px;"><a href="https://github.com/shibayan/Sharprompt" target="_blank" rel="noopener noreferrer">Sharprompt</a></td>
+<tr style="height: 50.3594px;">
+<td class="align-right" style="width: 70.1729%; height: 50.3594px;"><strong>Cli فریمورکی برای توسعه اپلیکیشن های مبتنی بر</strong></td>
+<td class="align-right" style="width: 29.8271%; height: 50.3594px;"><a href="https://github.com/shibayan/Sharprompt" target="_blank" rel="noopener noreferrer">Sharprompt</a></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-right" style="width: 70.1729%; height: 50.3594px;"><strong>کار با گرافیک و تصاویر</strong></td>
+<td class="align-right" style="width: 29.8271%; height: 50.3594px;"><a href="https://github.com/dlemstra/Magick.NET" target="_blank" rel="noopener noreferrer">Magick.NET</a></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-right" style="width: 70.1729%; height: 50.3594px;"><strong>کار با گرافیک و تصاویر</strong></td>
+<td class="align-right" style="width: 29.8271%; height: 50.3594px;"><a href="https://github.com/SixLabors/ImageSharp" target="null">ImageSharp</a></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-right" style="width: 70.1729%; height: 50.3594px;"><strong>فریمورک تسته استرس </strong></td>
+<td class="align-right" style="width: 29.8271%; height: 50.3594px;"><a href="https://github.com/PragmaticFlow/NBomber">NBomber</a></td>
 </tr>
 <tr>
-<td class="align-right" style="width: 70.1729%;"><strong>کار با گرافیک و تصاویر</strong></td>
-<td class="align-right" style="width: 29.8271%;"><a href="https://github.com/dlemstra/Magick.NET" target="_blank" rel="noopener noreferrer">Magick.NET</a></td>
-</tr>
-<tr>
-<td class="align-right" style="width: 70.1729%;"><strong>کار با گرافیک و تصاویر</strong></td>
-<td class="align-right" style="width: 29.8271%;"><a href="https://github.com/SixLabors/ImageSharp" target="null">ImageSharp</a></td>
+<td class="align-right" style="width: 70.1729%;"><strong>Swagger/OpenApi Toolchains</strong></td>
+<td class="align-right" style="width: 29.8271%;"><a href="https://github.com/RicoSuter/NSwag"> NSwag</a></td>
 </tr>
 </tbody>
 </table>
