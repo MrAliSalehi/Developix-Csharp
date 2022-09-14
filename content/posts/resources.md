@@ -15,7 +15,9 @@ description: "در این بخش منابع یادگیری سی شارپ ذکر 
 
 
 
-![The C# Player's Guide](/images/1.jpg)
+![The C# Player's Guide](1.jpg)
+
+
 
 #### *نام:The C# Player's Guide* 
 
@@ -23,7 +25,7 @@ description: "در این بخش منابع یادگیری سی شارپ ذکر 
 
 * * *
 
-![C# 10 Pocket Reference](/images/2.jpg)
+![C# 10 Pocket Reference](2.jpg)
 
 
 #### *نام:C# 10 Pocket Reference*
@@ -32,7 +34,7 @@ description: "در این بخش منابع یادگیری سی شارپ ذکر 
 
 * * *
 
-![C# 10 and .NET 6](/images/3.jpg)
+![C# 10 and .NET 6](3.jpg)
 
 
 #### *نام:C# 10 and .NET 6*
@@ -42,7 +44,7 @@ description: "در این بخش منابع یادگیری سی شارپ ذکر 
 
 * * *
 
-![C# Data Structures and Algorithms](/images/4.png)
+![C# Data Structures and Algorithms](4.png)
 
 #### *نام:C# Data Structures and Algorithms*
 
@@ -52,7 +54,7 @@ description: "در این بخش منابع یادگیری سی شارپ ذکر 
 
 * * *
 
-![Clean Code In C#](/images/5.webp)
+![Clean Code In C#](5.webp)
 
 #### *نام:Clean Code In C#*
 
@@ -62,7 +64,7 @@ description: "در این بخش منابع یادگیری سی شارپ ذکر 
 
 * * *
 
-![Design Patterns In C#](/images/6.jpg)
+![Design Patterns In C#](6.jpg)
 
 #### *نام:Design Patterns In C#*
 
