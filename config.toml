@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://mralisalehi.github.io/Developix-Csharp'
 languageCode = 'en-us'
 title = 'Developix|CSharp'
 theme = "hello-friend"
