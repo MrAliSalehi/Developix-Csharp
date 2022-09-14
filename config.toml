@@ -1,0 +1,11 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Developix|CSharp'
+theme = "hello-friend"
+
+[params]
+    defaultTheme = "dark"
+    showReadingTime = true
+    [languages.en.params.logo]
+      logoText = "Developix C# Blog"
+      
