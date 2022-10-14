@@ -125,6 +125,10 @@ description : "در این بخش برخی از کتابخانه های کارب
 *کار با media*
 * * *
 
+#### [Avalonia](https://github.com/avaloniaUI/avalonia)
+*توسعه اپلیکیشن GUI به صورت مولتی پلتفرم (ویندوز / لینوکس / مک / اندروید / IOS / Web Assembly)*
+* * *
+
 &nbsp;
 
 ### اگه شما هم کتابخانه ای میشناسید میتونید [اینجا](https://github.com/MrAliSalehi/Developix-Csharp) مشارکت کنید
