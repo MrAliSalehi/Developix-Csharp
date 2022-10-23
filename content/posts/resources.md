@@ -79,7 +79,8 @@ description: "در این بخش منابع یادگیری سی شارپ ذکر 
 *   [Dotnetsheff](https://www.youtube.com/c/dotnetsheff)
 *   [Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 *   [AmichaiMantinband](https://www.youtube.com/c/AmichaiMantinband)
-*   [](https://www.youtube.com/c/ThePrimeagen)[BrianLagunas](https://www.youtube.com/c/BrianLagunas)
+*   [ThePrimeagen](https://www.youtube.com/c/ThePrimeagen)
+*   [BrianLagunas](https://www.youtube.com/c/BrianLagunas)
 *   [MicrosoftDeveloper](https://www.youtube.com/c/MicrosoftDeveloper)
 *   [programmingwithmosh](https://www.youtube.com/c/programmingwithmosh)
 *   [JoshVarty](https://www.youtube.com/c/JoshVarty) _(Roslyn Team)_
