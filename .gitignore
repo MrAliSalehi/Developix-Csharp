@@ -1,0 +1,2 @@
+*.lock
+.hugo_build.lock
