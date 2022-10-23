@@ -19,36 +19,36 @@ description: "در این بخش منابع یادگیری سی شارپ ذکر 
 
 
 
-#### *نام:The C# Player's Guide* 
+#### _نام: *The C# Player's Guide*_
 
-#### *نویسنده:RB Whitaker*
+#### _نویسنده: *RB Whitaker*_
 
 * * *
 
 ![C# 10 Pocket Reference](2.jpg)
 
 
-#### *نام:C# 10 Pocket Reference*
+#### _نام: *C# 10 Pocket Reference*_
 
-#### *نویسنده:Joseph Albahari*
+#### _نویسنده: *Joseph Albahari*_
 
 * * *
 
 ![C# 10 and .NET 6](3.jpg)
 
 
-#### *نام:C# 10 and .NET 6*
+#### _نام: *C# 10 and .NET 6*_
 
-#### *نویسنده:Mark J. Price*
+#### _نویسنده: *Mark J. Price*_
 
 
 * * *
 
 ![C# Data Structures and Algorithms](4.png)
 
-#### *نام:C# Data Structures and Algorithms*
+#### _نام: *C# Data Structures and Algorithms*_
 
-#### *نویسنده:Marcin Jamro*
+#### _نویسنده: *Marcin Jamro*_
 
 
 
@@ -56,9 +56,9 @@ description: "در این بخش منابع یادگیری سی شارپ ذکر 
 
 ![Clean Code In C#](5.webp)
 
-#### *نام:Clean Code In C#*
+#### _نام: *Clean Code In C#*_
 
-#### *نویسنده:Jason Alls*
+#### _نویسنده: *Jason Alls*_
 
 
 
@@ -66,9 +66,9 @@ description: "در این بخش منابع یادگیری سی شارپ ذکر 
 
 ![Design Patterns In C#](6.jpg)
 
-#### *نام:Design Patterns In C#*
+#### _نام: *Design Patterns In C#*_
 
-#### *نویسنده:Vaskaran Sarcar*
+#### _نویسنده: *Vaskaran Sarcar*_
 
 
 ## یوتوب
@@ -79,7 +79,8 @@ description: "در این بخش منابع یادگیری سی شارپ ذکر 
 *   [Dotnetsheff](https://www.youtube.com/c/dotnetsheff)
 *   [Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 *   [AmichaiMantinband](https://www.youtube.com/c/AmichaiMantinband)
-*   [](https://www.youtube.com/c/ThePrimeagen)[BrianLagunas](https://www.youtube.com/c/BrianLagunas)
+*   [ThePrimeagen](https://www.youtube.com/c/ThePrimeagen)
+*   [BrianLagunas](https://www.youtube.com/c/BrianLagunas)
 *   [MicrosoftDeveloper](https://www.youtube.com/c/MicrosoftDeveloper)
 *   [programmingwithmosh](https://www.youtube.com/c/programmingwithmosh)
 *   [JoshVarty](https://www.youtube.com/c/JoshVarty) _(Roslyn Team)_
