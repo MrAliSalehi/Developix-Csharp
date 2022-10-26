@@ -129,6 +129,23 @@ description : "در این بخش برخی از کتابخانه های کارب
 *توسعه اپلیکیشن GUI به صورت مولتی پلتفرم (ویندوز / لینوکس / مک / اندروید / IOS / Web Assembly)*
 * * *
 
+### [Bit Platform](https://github.com/bitfoundation/bitplatform)
+*پلتفرمی برای توسعه سریعتر و آسان تر با بلیزور - استفاده از یک کد با خروجی کراس پلتفرم*
+در پایین هر کدام از محصولات این پلتفرم به صورت مجزا بررسی شده:
+
+##### [Bit Todo Template](https://bitplatform.dev/todo-template/overview)
+*این تمپلیت، یک تمپلیت وب اپلیکیشن Todo-List به صورت کراس پلتفرم در حالت SSR, PWA, Hybrid (IOS, Windows, Android, Mac) است. که کاربران میتوانند به دلخواه خود برای شروع یک پروژه بلیزور از ان استفاده کنند* [مشاهده دمو](https://todo.bitplatform.dev)
+
+##### [Bit Admin Template](https://bitplatform.dev/admin-template/overview)
+*مشابه تمپلیت Todo به همراه انواع چارت با قابلیت شخصی سازی* [مشاهده دمو](https://adminpanel.bitplatform.dev)
+
+##### [Bit BlazorUI](https://bitplatform.dev/components)
+*کامپوننت های Native برای بلیزور* (مشابه بوت استرپ یا Vuetify)
+
+##### [Bit Analyzer](https://github.com/bitfoundation/bitplatform/tree/develop/src/CodeAnalyzers)
+*انالیزور کد Blazor.* این لایبرری میتواند برای انالیز کد Blazor و رعایت بهتر Best practice ها استفاده شود.
+* * *
+
 &nbsp;
 
 ### اگه شما هم کتابخانه ای میشناسید میتونید [اینجا](https://github.com/MrAliSalehi/Developix-Csharp) مشارکت کنید
