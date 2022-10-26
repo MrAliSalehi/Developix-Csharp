@@ -146,6 +146,20 @@ description : "در این بخش برخی از کتابخانه های کارب
 *انالیزور کد Blazor.* این لایبرری میتواند برای انالیز کد Blazor و رعایت بهتر Best practice ها استفاده شود.
 * * *
 
+*لایبرری های UI برای بلیزور* (مشابه Vuetify یا Boot Strap)
+
+&nbsp;
+میتوانید از لیست زیر به دلخواه خود استفاده کنید، مزیت هر کامپوننت به صورت خلاصه جلوی ان نوشته شده (نظر شخصی نویسنده)
+#### [Mud Blazor](https://mudblazor.com/) *(پیشنهادی)* (کامپوننت های بیشتر به نسبت به رقبا - زیبایی بیشتر)
+#### [Bit BlazorUI](https://bitplatform.dev/components) *(پیشنهادی)* (سبک و چابک - زیبایی)
+#### [Radzen Blazor](https://blazor.radzen.com/) (دارای Design Studio)
+#### [Blazorise](https://blazorise.com/)
+#### [MatBlazor](https://www.matblazor.com/) (ساده)
+#### [Blazor Strap](https://blazorstrap.io/) (بوت استرپ به صورت Blazor native)
+
+
+* * *
+
 &nbsp;
 
 ### اگه شما هم کتابخانه ای میشناسید میتونید [اینجا](https://github.com/MrAliSalehi/Developix-Csharp) مشارکت کنید
