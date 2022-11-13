@@ -95,3 +95,4 @@ description: "در این بخش منابع یادگیری سی شارپ ذکر 
 *   [CodeMaze](https://www.youtube.com/c/CodeMaze)
 *   [TonySpencerTube](https://www.youtube.com/c/TonySpencerTube)
 *   [GeraldVersluis](https://www.youtube.com/c/GeraldVersluis)
+*   [Scott Hanselman](https://youtube.com/c/shanselman)
