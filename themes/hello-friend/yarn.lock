@@ -1445,7 +1445,7 @@ babel-loader@^8.0.5:
   integrity sha512-n4Zeta8NC3QAsuyiizu0GkmRcQ6clkV9WFUnUf1iXP//IeSKbWjofW3UHyZVwlOB4y039YQKefawyTn64Zwbuw==
   dependencies:
     find-cache-dir "^3.3.1"
-    loader-utils "^1.4.0"
+    loader-utils "^3.2.1"
     make-dir "^3.1.0"
     schema-utils "^2.6.5"
 
